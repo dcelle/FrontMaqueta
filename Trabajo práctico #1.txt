@@ -1,0 +1,99 @@
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
+Trabajo práctico #1
+
+	Para este trabajo, utilizaremos los conceptos vistos en clase, y el 
+	repositorio público que comentamos en la clase 2.
+
+
+Consigna:
+
+Paso 1 (pre-requisitos)
+
+	- Crear un repositorio local con Git para alojar los archivos del 
+		proyecto.
+--------------------------------------------------------------------------------
+Se creo Carpeta con archivos dentro, se lanzo el terminal desde la carpeta
+--------------------------------------------------------------------------------
+	- Incluir un archivo README.md con una breve descripción acerca del 
+		proyecto
+	- Crear un repositorio remoto, de acceso público, en alguna de las 
+		siguientes plataformas: Github (https://github.com/), GitLab
+		(https://gitlab.com/) o Bitbucket (https://bitbucket.org/).
+--------------------------------------------------------------------------------
+Se creo repositorio Github de nombre "FRONTMAQUETA" con archivo README.MD
+--------------------------------------------------------------------------------
+		
+
+
+
+Paso 2
+
+	- Ir a [el sitio donde está el template que vamos a usar] 
+		https://html5up.net/uploads/demos/massively/, y copiar el 
+		código fuente de la página.
+--------------------------------------------------------------------------------
+Se copio solo el codigo del Html index de la mencionada
+--------------------------------------------------------------------------------
+	- En nuestro proyecto local, crear un archivo `index.html` en el repo y 
+		pegar el html en él.
+--------------------------------------------------------------------------------
+hecho
+--------------------------------------------------------------------------------
+	- Hacer un nuevo commit en la rama master con un mensaje, como por 
+		ejemplo: "Agrega index.html como codigo de referencia."
+--------------------------------------------------------------------------------
+Ya ni idea de cuantos commit hice, y cuantos fatal error me dio el maldito 
+ubuntu 20 04 (reinstalado 5 veces), aguante Guindous carajo!!
+	- Utilizar el comando `git push` para subir los cambios al repo remoto.
+--------------------------------------------------------------------------------
+Según confirmacion del terminal, los archivos subieron, "pero no los veo en 
+Github. SOlo veo el commit
+--------------------------------------------------------------------------------
+
+
+
+
+Paso 3
+
+	- Crear un archivo `styles.css`
+--------------------------------------------------------------------------------
+creado dentro de su subdirectorio
+--------------------------------------------------------------------------------
+	- Agregar una regla CSS para el `body` del documento y cambiar el 
+		`background-color`.
+--------------------------------------------------------------------------------
+Celeste, con opacidad 0.5 para que sea más claro
+--------------------------------------------------------------------------------
+	- Linkear el archivo en el `head` de nuestro `index.html` utilizando el 
+	tag `link`.
+--------------------------------------------------------------------------------
+linkeado y eliminado los otros
+Se comentan los script de las demas funciones
+--------------------------------------------------------------------------------
+	- Ir al browser y corroborar que el color de toda la página cambia de 
+	color. 
+--------------------------------------------------------------------------------
+confirmado
+--------------------------------------------------------------------------------
+	- También podemos corroborar en el tab Network de las herramientas del
+	browser que nuestro sitio está haciendo un request extra para 
+	incluir el archivo styles.css` y que el código (status code) es `200`.
+	Tomar una captura de pantalla.
+--------------------------------------------------------------------------------
+NI IDEA de donde hacer eso!!
+(De todas maneras, print de pantalla de lo que creo es)
+--------------------------------------------------------------------------------
+	- Efectuar un commit en la rama master que incluya estos nuevos cambios 
+		con un mensaje descriptivo como "Incluye styles.css con color 
+		de fondo para el body."
+	- Utilizar `git push` para subir los cambios al repositorio remoto.
+
+
+Entregable
+	- El entregable de esta actividad deberá consistir en un link al 
+		repositorio creado en el Paso 1, dentro del cual podremos 
+		validar las consignas cumplidas, revisando los commits y los 
+		cambios introducidos en ellos; y la captura de pantalla de la 
+		corroboración hecha en Paso 3, ítem 4.
+
+-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
