@@ -87,13 +87,18 @@ NI IDEA de donde hacer eso!!
 		con un mensaje descriptivo como "Incluye styles.css con color 
 		de fondo para el body."
 	- Utilizar `git push` para subir los cambios al repositorio remoto.
+--------------------------------------------------------------------------------
+Los archivos se subieron por fuera de la consola.
+Todavía no tengo acceso a la materia de Coco, donde entiendo 
+esta explicado el uso de Git 
+--------------------------------------------------------------------------------
 
 
 Entregable
 	- El entregable de esta actividad deberá consistir en un link al 
-		repositorio creado en el Paso 1, dentro del cual podremos 
-		validar las consignas cumplidas, revisando los commits y los 
-		cambios introducidos en ellos; y la captura de pantalla de la 
-		corroboración hecha en Paso 3, ítem 4.
+	repositorio creado en el Paso 1, dentro del cual podremos validar las 
+	consignas cumplidas, revisando los commits y los cambios introducidos 
+	en ellos; y la captura de pantalla de la corroboración hecha en Paso 
+	3, ítem 4.
 
 -*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*-*
