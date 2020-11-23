@@ -62,23 +62,26 @@ creado dentro de su subdirectorio
 	- Agregar una regla CSS para el `body` del documento y cambiar el 
 		`background-color`.
 --------------------------------------------------------------------------------
-Celeste, con opacidad para que sea más claro
+Celeste, con opacidad 0.5 para que sea más claro
 --------------------------------------------------------------------------------
 	- Linkear el archivo en el `head` de nuestro `index.html` utilizando el 
-		tag `link`.
+	tag `link`.
 --------------------------------------------------------------------------------
-y eliminado los otros
+linkeado y eliminado los otros
 Se comentan los script de las demas funciones
 --------------------------------------------------------------------------------
 	- Ir al browser y corroborar que el color de toda la página cambia de 
-		color. 
+	color. 
 --------------------------------------------------------------------------------
+confirmado
 --------------------------------------------------------------------------------
 	- También podemos corroborar en el tab Network de las herramientas del
-		browser que nuestro sitio está haciendo un request extra para 
-		incluir el archivo 
-		`styles.css` y que el código (status code) es `200`.
-		Tomar una captura de pantalla.
+	browser que nuestro sitio está haciendo un request extra para 
+	incluir el archivo styles.css` y que el código (status code) es `200`.
+	Tomar una captura de pantalla.
+--------------------------------------------------------------------------------
+NI IDEA de donde hacer eso!!
+(De todas maneras, print de pantalla de lo que creo es)
 --------------------------------------------------------------------------------
 	- Efectuar un commit en la rama master que incluya estos nuevos cambios 
 		con un mensaje descriptivo como "Incluye styles.css con color 
